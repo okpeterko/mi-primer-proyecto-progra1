@@ -1,0 +1,9 @@
+i. ¿Qué aprendiste sobre el flujo de trabajo con Git y GitHub?
+Aprendí que Git y GitHub son herramientas esenciales para trabajar en equipo y mantener un control eficiente del código. El flujo de trabajo básico incluye **clonar un repositorio, crear ramas para trabajar en cambios sin afectar el código principal, hacer commits con mensajes claros, y luego subir esos cambios con push**. También entendí la importancia de los pull requests, que permiten revisar y fusionar código de manera organizada. Otro aspecto clave fue aprender a resolver conflictos cuando dos personas modifican el mismo archivo.  
+
+ii. ¿Cómo fue la experiencia de trabajar en parejas? ¿Encontraste algún conflicto? ¿Cómo lo resolviste?
+Trabajar en parejas fue interesante porque permitió dividir el trabajo y aprender de otra persona. Sin embargo, hubo algunos conflictos, especialmente cuando ambos hicimos cambios en el mismo archivo y Git marcó un conflicto. Para resolverlo, usamos el comando `git merge` y editamos manualmente las líneas en conflicto. También nos aseguramos de comunicarnos mejor y hacer pull antes de empezar a trabajar, para evitar modificar la misma parte del código al mismo tiempo.  
+
+iii. ¿Qué ventajas crees que tiene usar Git en proyectos de programación?
+Usar Git en proyectos de programación tiene muchas ventajas. Primero, permite hacer un seguimiento de los cambios, lo que facilita regresar a versiones anteriores si algo sale mal. Segundo, ayuda a trabajar en equipo sin sobrescribir el código de otros, ya que cada quien puede hacer cambios en su propia rama y luego fusionarlos. Tercero, GitHub facilita la colaboración y la revisión de código, algo fundamental en proyectos grandes. Además, el uso de Git en empresas es un estándar, por lo que aprenderlo desde ahora nos prepara mejor para el mundo laboral.  
+
