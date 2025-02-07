@@ -1,0 +1,9 @@
+i. ¿Qué aprendiste sobre el flujo de trabajo con Git y GitHub?
+Aprendí que Git y GitHub son dos herramientas completamente diferentes, las cuales sirven para poder trabajar de manera cooperativa y dinámica los distintos proyectos, son parecidos pero cada uno tiene un rol muy diferente nos permiten trabajar distintamente o darle diferentes rumbos a un proyecto, es como aplicar la frase "y que pasaría si..."
+
+ii. ¿Cómo fue la experiencia de trabajar en parejas? ¿Encontraste algún conflicto? ¿Cómo lo resolviste?
+Fue bastante interesante el trabajo colaborativo, ya que varía la manera que dos personas vemos un mismo evento o problema ya que aprendemos uno del otro. surgió un conflicto, al momento de hacer cambios en el mismo archivo pues Git indico un conflicto, lo resolvimos usando el comando git merge para lo que editamos manualmente las líneas en conflicto. Realizamos la practica de hacer pull antes de trabajar, para no editar simultáneamente la misma línea de código.  
+
+iii. ¿Qué ventajas crees que tiene usar Git en proyectos de programación?
+En lo personal creo que es bastante beneficioso, pues nos ayuda a poder darle diferentes rumbos a nuestros proyectos, también nos da la facilidad de poder trabajar en equipo.
+
